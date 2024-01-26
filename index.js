@@ -25,7 +25,7 @@ else if(randomNumber2 === 5) {
     document.querySelector(".img2").setAttribute("src", "dice5.png");
 }
 else {
-    document.querySelector(".img2").setAttribute("src", "/dice6.png");
+    document.querySelector(".img2").setAttribute("src", "dice6.png");
 }
 
 if(randomNumber1 > randomNumber2) {
